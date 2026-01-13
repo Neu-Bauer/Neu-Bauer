@@ -1,47 +1,27 @@
-### Olá! Eu sou o Kauan Neubauer 👋
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Backend+%26+Infra+Enthusiast;Node.js+%7C+Java+%7C+Docker;Building+Smart+Cities+Solutions" alt="Typing SVG" />
-  </a>
-</div>
+# Kauan Neubauer 👨‍💻
+### Backend Developer Júnior | Infra & Hardware Enthusiast
 
 ---
 
-### 🚀 Sobre Mim
-> "Transformando café em código e infraestrutura."
+### 📜 Bio
+Graduando em Engenharia de Software com foco em conectar **código** e **infraestrutura**.
+Atualmente liderando o desenvolvimento técnico de um projeto de **Cidades Inteligentes (IoT)**.
 
-Sou estudante de **Engenharia de Software** focado em entender o "debaixo do capô" das aplicações.
-* 🔭 **TCC:** Desenvolvendo soluções de IoT para **Cidades Inteligentes**.
-* 🌱 **Estudando:** Orquestração com **Kubernetes** e Arquitetura de Microsserviços.
-* ⚙️ **Hardware:** Entusiasta de montagem de PCs e otimização de sistemas.
-
----
-
-### 🛠️ Minha Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python,docker,kubernetes,linux,git,github" />
-</div>
+- 🐳 **Docker & Kubernetes:** Aprendendo a orquestrar containers.
+- ☕ **Java & Node.js:** Criando backends robustos.
+- 🖥️ **Hardware:** Paixão por entender como o ferro funciona.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/Neu-Bauer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Neu-Bauer&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neu-Bauer&layout=compact&theme=react"/>
-  </a>
-</div>
+### 💻 Tech Stack
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs)
+![Java](https://img.shields.io/badge/Java-black?style=flat&logo=openjdk)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kauan-neubauer-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  &nbsp;
-  <a href="mailto:kauanardoso@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
+### 📬 Contato
+[<img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/kauan-neubauer-dev/)
+[<img src="https://img.shields.io/badge/Email-Enviar-red?style=for-the-badge&logo=gmail">](mailto:kauancardoso@gmail.com)
