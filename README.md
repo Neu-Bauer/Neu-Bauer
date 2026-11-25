@@ -13,19 +13,18 @@
 Sou estudante do último ano de **Engenharia de Software**, focado em resolver problemas que unem código e infraestrutura. 
 Não sou apenas de software; gosto de entender o hardware, a rede e o container onde a aplicação roda.
 
-- 🔭 **Foco Atual:** Desenvolvimento de soluções IoT para Cidades Inteligentes.
-- ⚡ **Stack:** Node.js, Java, Docker & Kubernetes.
+- ⚡ **Stack:** Node.js, TypeScript, React.
 - 🖥️ **Hobby:** Montagem e manutenção de Hardware (Water Coolers, Otimização térmica).
 
 ---
 
 ### 🏆 Projeto em Destaque (TCC)
 
-> **Smart City Traffic Control** (Em desenvolvimento)
+> **Hectaria** (Em desenvolvimento)
 >
-> Um sistema de gestão de tráfego inteligente que utiliza sensores IoT para otimizar o fluxo urbano em tempo real.
+> Exportação georreferenciadas de dados para sistemas de Taxa Variável em agricultura de Precisão.
 >
-> 🛠️ **Tech:** `Node.js` `Docker` `IoT`
+> 🛠️ **Tech:** `C++` `React` `TS`
 
 ---
 
